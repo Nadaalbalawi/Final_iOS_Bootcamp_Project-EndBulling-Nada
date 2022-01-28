@@ -25,18 +25,18 @@ struct K {
   }
   
   struct Segues {
-    static var go_to_PatientProfileDetailsViewController = "go_to_PatientProfileDetailsViewController"
-    static var go_to_DoctorProfileDetailsViewController = "go_to_DoctorProfileDetailsViewController"
-    static var go_to_AppointmentSelectorViewController = "go_to_AppointmentSelectorViewController"
-    static var go_to_VideoPlayerViewController = "go_to_VideoPlayerViewController"
-    static var go_to_QuestionsViewController = "go_to_QuestionsViewController"
-    static var go_to_InformationPatientViewController = "go_to_InformationPatientViewController"
-    static var go_to_ChangeEmailViewController = "go_to_ChangeEmailViewController"
-    static var go_to_ChangePasswordViewController = "go_to_ChangePasswordViewController"
-    static var go_to_ImportantNumbersViewController = "go_to_ImportantNumbersViewController"
-    static var go_to_DateSelectorViewController = "go_to_DateSelectorViewController"
-    static var go_to_InformationViewController = "go_to_InformationViewController"
-    static var go_to_ChatViewController = "go_to_ChatViewController"
+    static let go_to_PatientProfileDetailsViewController = "go_to_PatientProfileDetailsViewController"
+    static let go_to_DoctorProfileDetailsViewController = "go_to_DoctorProfileDetailsViewController"
+    static let go_to_AppointmentSelectorViewController = "go_to_AppointmentSelectorViewController"
+    static let go_to_VideoPlayerViewController = "go_to_VideoPlayerViewController"
+    static let go_to_QuestionsViewController = "go_to_QuestionsViewController"
+    static let go_to_InformationPatientViewController = "go_to_InformationPatientViewController"
+    static let go_to_ChangeEmailViewController = "go_to_ChangeEmailViewController"
+    static let go_to_ChangePasswordViewController = "go_to_ChangePasswordViewController"
+    static let go_to_ImportantNumbersViewController = "go_to_ImportantNumbersViewController"
+    static let go_to_DateSelectorViewController = "go_to_DateSelectorViewController"
+    static let go_to_InformationViewController = "go_to_InformationViewController"
+    static let go_to_ChatViewController = "go_to_ChatViewController"
   }
   
 }

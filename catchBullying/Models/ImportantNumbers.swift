@@ -6,7 +6,7 @@
 //
 
 import Foundation
-struct ImportantNumber {
+struct ImportantNumbers {
 var title : String
 var phoneNumber : String
 var icon: String

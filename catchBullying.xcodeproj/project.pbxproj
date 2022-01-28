@@ -10,7 +10,7 @@
 		18074218277AEDB40090BDCC /* DoctorsListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18074217277AEDB40090BDCC /* DoctorsListCell.swift */; };
 		1807421A277C39EE0090BDCC /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18074219277C39EE0090BDCC /* SettingsViewController.swift */; };
 		1807421C277C3F710090BDCC /* ProfileCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807421B277C3F710090BDCC /* ProfileCell.swift */; };
-		18074220277C805A0090BDCC /* ImportantNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807421F277C805A0090BDCC /* ImportantNumber.swift */; };
+		18074220277C805A0090BDCC /* ImportantNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807421F277C805A0090BDCC /* ImportantNumbers.swift */; };
 		18074222277C81000090BDCC /* ImportantNumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18074221277C81000090BDCC /* ImportantNumbersViewController.swift */; };
 		18074226277DA00D0090BDCC /* ChatTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18074225277DA00D0090BDCC /* ChatTableViewCell.swift */; };
 		180DB1A52783025F00FC309C /* InformationPatientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180DB1A42783025F00FC309C /* InformationPatientViewController.swift */; };
@@ -71,7 +71,7 @@
 		18074217277AEDB40090BDCC /* DoctorsListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorsListCell.swift; sourceTree = "<group>"; };
 		18074219277C39EE0090BDCC /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		1807421B277C3F710090BDCC /* ProfileCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCell.swift; sourceTree = "<group>"; };
-		1807421F277C805A0090BDCC /* ImportantNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportantNumber.swift; sourceTree = "<group>"; };
+		1807421F277C805A0090BDCC /* ImportantNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportantNumbers.swift; sourceTree = "<group>"; };
 		18074221277C81000090BDCC /* ImportantNumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportantNumbersViewController.swift; sourceTree = "<group>"; };
 		18074225277DA00D0090BDCC /* ChatTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatTableViewCell.swift; sourceTree = "<group>"; };
 		180DB1A42783025F00FC309C /* InformationPatientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationPatientViewController.swift; sourceTree = "<group>"; };
@@ -174,7 +174,7 @@
 				182BD463276DBAE600FA32BC /* FirestoreUser.swift */,
 				1807421B277C3F710090BDCC /* ProfileCell.swift */,
 				181CD8592777341C00E0C105 /* PsicologistQuestion.swift */,
-				1807421F277C805A0090BDCC /* ImportantNumber.swift */,
+				1807421F277C805A0090BDCC /* ImportantNumbers.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -470,7 +470,7 @@
 				180DB1AD27837DED00FC309C /* DoctorProfileDetailsViewController.swift in Sources */,
 				180DB1AB2783720A00FC309C /* InformationViewController.swift in Sources */,
 				18CD74C32786E573001120C1 /* ChangePasswordViewController.swift in Sources */,
-				18074220277C805A0090BDCC /* ImportantNumber.swift in Sources */,
+				18074220277C805A0090BDCC /* ImportantNumbers.swift in Sources */,
 				181CD8562777225300E0C105 /* PatientHomeTabBarController.swift in Sources */,
 				180DB1A7278327A900FC309C /* ChatViewController.swift in Sources */,
 				184D60AA27844AF9009AE8CE /* PatientsListCell.swift in Sources */,
